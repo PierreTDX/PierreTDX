@@ -30,20 +30,11 @@
 
 ### 🔨 Projets sélectionnés
 
-- 💼 [SportSee](https://github.com/PierreTDX/SportSee) — Visualisation de données sportives avec React & Recharts  
-- 🏠 [Kasa](https://github.com/PierreTDX/Kasa) — Plateforme de location React avec React Router  
-- 🍳 [Les Petits Plats](https://github.com/PierreTDX/Les-Petits-Plats) — Algorithme de recherche en JS Vanilla  
-- 🏦 [ArgentBank](https://github.com/PierreTDX/ArgentBank) — Application bancaire sécurisée avec Redux et JWT  
+- 💼 [SportSee](https://p12-sport-see-oc.vercel.app/) — Visualisation de données sportives avec React & Recharts  
+- 🏠 [Kasa](https://p11-kasa-oc.vercel.app/) — Plateforme de location React avec React Router  
+- 🍳 [Les Petits Plats](https://p7-les-petits-plats-oc.vercel.app/) — Algorithme de recherche en JS Vanilla  
+- 🏦 [ArgentBank](https://p13-argentbank-oc.vercel.app/) — Application bancaire sécurisée avec Redux et JWT  
 - 🧩 [`@ptdx/modal`](https://www.npmjs.com/package/@ptdx/modal) — Composant React de modale personnalisable, publié sur npm
-
----
-
-### 📈 Statistiques GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PierreTDX&show_icons=true&theme=radical" alt="stats github">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PierreTDX&layout=compact&theme=radical" alt="top langs">
-</p>
 
 ---
 
