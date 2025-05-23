@@ -10,7 +10,7 @@
 
 - 🎓 Formation Développeur Concepteur Logiciel
 - 🎓 Formation Développeur Concepteur d'applications
-- 🚀 Prochain objectif : Bossez avec vous!
+- 🚀 Prochain objectif : Bosser avec vous!
 - 💼 Plus de 20 ans d'expérience en management industriel avant la tech
 - 🌱 En apprentissage continu : React, Redux, MongoDB, Nest.js, JWT, accessibilité...
 
@@ -30,15 +30,17 @@
 
 ### 🔨 Projets sélectionnés
 
-- 💼 [SportSee](https://p12-sport-see-oc.vercel.app/) — Visualisation de données sportives avec React & Recharts  
-- 🏠 [Kasa](https://p11-kasa-oc.vercel.app/) — Plateforme de location React avec React Router  
+- 🏦 [ArgentBank](https://p13-argentbank-oc.vercel.app/) — Application bancaire sécurisée avec Redux et JWT
+- 🏦 [HR Net](https://p14-hrnet-oc.vercel.app/) — Convertir une application de gestion RH de JQuery vers React  
+- 💼 [SportSee](https://p12-sport-see-oc.vercel.app/) — Visualisation de données sportives avec React & Recharts
 - 🍳 [Les Petits Plats](https://p7-les-petits-plats-oc.vercel.app/) — Algorithme de recherche en JS Vanilla  
-- 🏦 [ArgentBank](https://p13-argentbank-oc.vercel.app/) — Application bancaire sécurisée avec Redux et JWT  
+- 🏠 [Kasa](https://p11-kasa-oc.vercel.app/) — Plateforme de location React avec React Router  
 - 🧩 [`@ptdx/modal`](https://www.npmjs.com/package/@ptdx/modal) — Composant React de modale personnalisable, publié sur npm
 
 ---
 
 ### 📫 Me contacter
 
+- [Mon mail](mailto:pierre.tondeux@gmail.com)
 - [Mon GitHub](https://github.com/PierreTDX)
 - [LinkedIn](https://www.linkedin.com/in/pierre-tondeux/)
