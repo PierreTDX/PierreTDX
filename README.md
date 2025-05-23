@@ -45,7 +45,7 @@
 ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat)
 ![ERP](https://img.shields.io/badge/-ERP-blue?style=flat)
-![Excalidraw](https://img.shields.io/badge/-Excalidraw-000000?style=flat)
+![Excalidraw](https://img.shields.io/badge/-Excalidraw-000000?logo=excalidraw&logoColor=white&style=flat)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat)
 ![Draw.io](https://img.shields.io/badge/-Draw.io-F08705?logo=diagrams.net&logoColor=white&style=flat)
 
