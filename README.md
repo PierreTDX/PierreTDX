@@ -28,6 +28,7 @@
 
 ![NestJS](https://img.shields.io/badge/-Nest.js-E0234E?logo=nestjs&logoColor=white&style=flat)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
+![Zustand](https://img.shields.io/badge/-Zustand-000000?style=flat&logoColor=white)
 ![Ionic](https://img.shields.io/badge/-Ionic-3880FF?logo=ionic&logoColor=white&style=flat)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat)
 ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?logo=gitlab&logoColor=white&style=flat)
