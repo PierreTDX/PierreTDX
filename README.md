@@ -8,8 +8,8 @@
 
 ### 👨‍💻 À propos
 
-- 🎓 Formation Développeur Concepteur Logiciel
-- 🎓 Formation Développeur Concepteur d'applications
+- 🎓 Développeur Concepteur Logiciel (Titre RNCP Niveau 6, code 38038)
+- 🎓 Concepteur Développeur d'Applications (Titre RNCP Niveau 6, code 31678)
 - 🔁 Reconversion après 20 ans de management industriel
 - 🧠 En formation continue sur React, Redux, MongoDB, Nest.js, JWT...
 - 🚀 Objectif : Rejoindre une équipe pour construire des applis utiles, maintenables et modernes
