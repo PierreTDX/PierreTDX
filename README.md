@@ -43,5 +43,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-PierreTDX-181717?style=flat&logo=github)](https://github.com/PierreTDX)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pierre--tondeux-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/pierre-tondeux/)  
 
-![Visiteurs](https://img.shields.io/badge/dynamic/json?color=blue&label=visiteurs&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2FPierreTDX.readme%2Fvisiteurs)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=PierreTDX.PierreTDX&right_color=gray&right_color=blue)
+
 
