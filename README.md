@@ -43,6 +43,11 @@
 [![GitHub](https://img.shields.io/badge/GitHub-PierreTDX-181717?style=flat&logo=github)](https://github.com/PierreTDX)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pierre--tondeux-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/pierre-tondeux/)  
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=PierreTDX.PierreTDX&right_color=gray&right_color=blue)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=PierreTDX.PierreTDX&left_color=gray&right_color=blue)
+
+<p align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=PierreTDX.PierreTDX&left_color=gray&right_color=blue" alt="visiteurs" />
+</p>
+
 
 
