@@ -10,9 +10,9 @@
 
 - 🎓 Formation Développeur Concepteur Logiciel
 - 🎓 Formation Développeur Concepteur d'applications
-- 🚀 Prochain objectif : Bosser avec vous!
-- 💼 Plus de 20 ans d'expérience en management industriel avant la tech
-- 🌱 En apprentissage continu : React, Redux, MongoDB, Nest.js, JWT, accessibilité...
+- 🔁 Reconversion après 20 ans de management industriel
+- 🧠 En formation continue sur React, Redux, MongoDB, Nest.js, JWT...
+- 🚀 Objectif : Rejoindre une équipe pour construire des applis utiles, maintenables et modernes
 
 ---
 
@@ -30,17 +30,18 @@
 
 ### 🔨 Projets sélectionnés
 
-- 🏦 [ArgentBank](https://p13-argentbank-oc.vercel.app/) — Application bancaire sécurisée avec Redux et JWT
-- 🏦 [HR Net](https://p14-hrnet-oc.vercel.app/) — Convertir une application de gestion RH de JQuery vers React  
-- 💼 [SportSee](https://p12-sport-see-oc.vercel.app/) — Visualisation de données sportives avec React & Recharts
-- 🍳 [Les Petits Plats](https://p7-les-petits-plats-oc.vercel.app/) — Algorithme de recherche en JS Vanilla  
-- 🏠 [Kasa](https://p11-kasa-oc.vercel.app/) — Plateforme de location React avec React Router  
-- 🧩 [`@ptdx/modal`](https://www.npmjs.com/package/@ptdx/modal) — Composant React de modale personnalisable, publié sur npm
+- 🏦 [ArgentBank](https://p13-argentbank-oc.vercel.app/) — Application bancaire React + Redux avec auth JWT
+- 🧑‍💼 [HR Net](https://p14-hrnet-oc.vercel.app/) — Portage de jQuery vers React + composant modal personnalisé
+- 📊 [SportSee](https://p12-sport-see-oc.vercel.app/) — Dashboard sportif avec Recharts + API Node déployée
+- 🔍 [Les Petits Plats](https://p7-les-petits-plats-oc.vercel.app/) — Moteur de recherche recettes en JS Vanilla
+- 🏠 [Kasa](https://p11-kasa-oc.vercel.app/) — Application de location en React + gestion de routes
+- 🧩 [`@ptdx/modal`](https://www.npmjs.com/package/@ptdx/modal) — Composant React de modale publié sur npm
 
 ---
 
 ### 📫 Me contacter
 
-- [Mon mail](mailto:pierre.tondeux@gmail.com)
-- [Mon GitHub](https://github.com/PierreTDX)
-- [LinkedIn](https://www.linkedin.com/in/pierre-tondeux/)
+- 📧 [Mon mail](mailto:pierre.tondeux@gmail.com)
+- 💻 [GitHub](https://github.com/PierreTDX)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/pierre-tondeux/)
+
