@@ -1,7 +1,7 @@
 <h1 align="center">Salut, moi c'est Pierre 👋</h1>
 
 <p align="center">
-⚛️ Développeur Web React | Expertise Front-End | 🛠️ NodeJS en support Back-End | 🚀 Passionné par l’optimisation des processus
+⚛️ Développeur React | Expertise Front-End | 🛠️ NodeJS en support Back-End | 🚀 Passionné par l’optimisation des processus
 </p>
 
 ---
